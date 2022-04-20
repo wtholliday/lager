@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "boost",
+        "repositoryURL": "https://github.com/wtholliday/boost",
+        "state": {
+          "branch": "spm",
+          "revision": "da81762d02ce2073e417fc117a73cc01d39054d8",
+          "version": null
+        }
+      },
+      {
+        "package": "zug",
+        "repositoryURL": "https://github.com/wtholliday/zug",
+        "state": {
+          "branch": "spm",
+          "revision": "ddd435c4e2dca7810cf5c4b042e7c486fc004524",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
